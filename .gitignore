@@ -1,0 +1,13 @@
+# Visual Studio files
+.vs/
+**/TodoAPI/.vs/
+*.vsidx
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
